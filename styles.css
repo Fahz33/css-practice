@@ -1,0 +1,35 @@
+
+body { 
+	background: radial-gradient(pink, white);
+     }
+
+h1 {
+     font-size: 40px;
+     color: slategray;
+     background: blue;
+     border-style: ridge;
+     border-color: red;
+     border-width: 4px;
+
+   }
+
+.first {
+	font-family: cursive;
+	color: slategray;
+	font-size: 18px;
+       }
+
+p {
+	background-color: red;
+	font-family: sans-serif;
+	border-style: dotted;
+}
+
+
+.small-text {
+		font-family: sans;
+		color: slategray;
+		font-size: 10px;
+		border-color: green;
+		border-width: 10px;
+	    }
